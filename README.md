@@ -24,8 +24,7 @@ wget --no-check-certificate https://github.com/teddysun/across/raw/master/kms.sh
 netstat -nxtlp | grep 1688
 
 -------如下表示OK了-------
-tcp        0      0 0.0.0.0:1688                0.0.0.0:*                   LISTEN      3200/vlmcsd         
-tcp        0      0 :::1688                     :::*                        LISTEN      3200/vlmcsd
+![image](https://user-images.githubusercontent.com/69714467/128604182-4f40513d-28d6-411b-9149-ac9c5d8ae2ac.png)
 
 -------腳本安裝完成後，將KMS服務加入啟動自啟動-------
 啟動：/etc/init.d/kms start

@@ -43,7 +43,7 @@ netstat -nxtlp | grep 1688
 狀態：/etc/init.d/kms status
 
 
-卸載方法  以root權限運行以下命令
+-------卸載方法  以root權限運行以下命令-------
 
 ./kms.sh uninstall
 

@@ -1,5 +1,5 @@
 
-#VMware Workstation Pro 16永久激活碼激活秘訣
+# VMware Workstation Pro 16永久激活碼激活秘訣
 
 官網: https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
 下載link: https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.2-17966106.exe
@@ -10,7 +10,7 @@
 
 ------ZF71R-DMX85-08DQY-8YMNC-PPHV8------
 
-#Ubuntu 20.04.2.0 LTS
+# Ubuntu 20.04.2.0 LTS
 https://ubuntu.com/download/desktop/thank-you?version=20.04.2.0&architecture=amd64
 
 # KMS_SERVER
@@ -36,7 +36,7 @@ tcp        0      0 :::1688                     :::*                        LIST
 卸載方法  以root權限運行以下命令
 ./kms.sh uninstall
 
-#如何使用 KMS 服務？
+# 如何使用 KMS 服務？
 
 -------使用管理員權限運行cmd 查看系統版本-------
 wmic os get caption

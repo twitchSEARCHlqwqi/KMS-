@@ -13,7 +13,7 @@
 # Ubuntu 20.04.2.0 LTS
 https://ubuntu.com/download/desktop/thank-you?version=20.04.2.0&architecture=amd64
 
-# KMS_SERVER
+# KMS_SERVER 安裝
 sudo -i
 
 apt update && apt upgrade

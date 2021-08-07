@@ -57,7 +57,7 @@ wmic os get caption
 
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX   | Windows 10 專業版 Key
 
-https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys
+microsoft 官方 key https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys
 
 -------使用管理員權限運行cmd將KMS Server 地址設置為你自己的IP或域名，最好還有上端口號（:1688）-------
 

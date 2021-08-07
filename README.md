@@ -61,7 +61,7 @@ https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys
 
 -------使用管理員權限運行cmd將KMS Server 地址設置為你自己的IP或域名，最好還有上端口號（:1688）-------
 
-slmgr /skms 192.168.88.135
+slmgr /skms your ip or Hostname
 
 -------使用管理員權限運行cmd手動激活系統-------
 

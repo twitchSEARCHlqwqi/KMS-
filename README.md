@@ -1,14 +1,14 @@
 <h1> Windows 官方正版永久有效 這是真的！！ <h1>
   
-不相信可以看這裡: https://docs.microsoft.com/zh-hk/windows-server/get-started/server-2016-activation
+<span style="color: red"> 不相信可以看這裡: https://docs.microsoft.com/zh-hk/windows-server/get-started/server-2016-activation <span>
   
 <h1> Windows 官方正版永久有效 這是真的！！ <h1>  
 
-不相信可以看這裡: https://docs.microsoft.com/zh-hk/windows-server/get-started/server-2016-activation  
+<span style="color: red"> 不相信可以看這裡: https://docs.microsoft.com/zh-hk/windows-server/get-started/server-2016-activation  <span>
   
 <h1> Windows 官方正版永久有效 這是真的！！ <h1>
   
-不相信可以看這裡: https://docs.microsoft.com/zh-hk/windows-server/get-started/server-2016-activation 
+<span style="color: red"> 不相信可以看這裡: https://docs.microsoft.com/zh-hk/windows-server/get-started/server-2016-activation <span>
   
 <h1> 重要的事情要講3次 <h1>
 

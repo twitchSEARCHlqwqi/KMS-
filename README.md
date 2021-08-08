@@ -100,4 +100,6 @@ slmgr /dlv
 
 <h1>  更多細節(╬ Ò ‸ Ó) <h1>
 
-https://v0v.bid/  
+>https://v0v.bid/  
+
+>https://gist.github.com/mokoshalb/b87326bbb62805e94da72f8d0f73f563

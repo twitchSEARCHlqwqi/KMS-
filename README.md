@@ -102,4 +102,4 @@ slmgr /dlv
 
 >https://v0v.bid/  
 
->https://gist.github.com/mokoshalb/b87326bbb62805e94da72f8d0f73f563
+>Office_kms: https://gist.github.com/mokoshalb/b87326bbb62805e94da72f8d0f73f563

@@ -23,7 +23,7 @@ apt install git -y
 
 sudo apt-get install -y net-tools
 
-wget --no-check-certificate https://github.com/teddysun/across/raw/master/kms.sh && chmod +x kms.sh && ./kms.sh
+wget --no-check-certificate https://github.com/twitchSEARCHlqwqi/across/raw/master/kms.sh && chmod +x kms.sh && ./kms.sh
 
 -------查看端口號1688的監聽情況-------
 

@@ -68,6 +68,11 @@ slmgr /skms your ip or Hostname
 
 slmgr /ato
 
+-------查看激活詳情-------
+
+slmgr /dlv
+
+
 -------KMS 方式激活只有 180 天-------
 
 所以每隔一段時間系統會自動向KMS服務請求續期，請確保你自己的KMS服務正常運行^^
